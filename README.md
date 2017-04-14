@@ -1,2 +1,2 @@
 # lingereryi.github.io
-Personal Website
+Personal Website Homepage
